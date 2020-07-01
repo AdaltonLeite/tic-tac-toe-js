@@ -43,4 +43,9 @@ Essa função serve pra vc jogar dnv e tentar ganhar do seu coleguinha. Ela simp
 
 
 # Resultado final
+Deu vontade de jogar? Clica no link da demo -> [DEMO](https://adaltonleite.github.io/tic-tac-toe-js/index.html)
+
 ![](tictactoe.gif)
+
+# Fim ?
+Projetinho legal pra passar o tempo, que tal criar um projeto de Tic Tac Toe JS vc tbm? Escrevendo aqui já vi algumas possíveis melhorias...
