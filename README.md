@@ -12,9 +12,9 @@ Com **CSS** criei algumas ``.classes{}`` que fazem todo o trabalho do ``:hover{}
 
 ## Javascript
 
-Confesso q dei uma analisada em alguns projetos de TTT na web antes de começar o meu, e uma coisa que me deixou incomodado foi a forma como o pessoal fazer a validação se tinha um vencedor, tinham muitos **IF/ ELSE IF/ ELSE**, tentei minimizar um pouco o código. 
+Analisei em alguns projetos de TTT na web antes de começar o meu, e uma coisa que me deixou incomodado foi a forma como o pessoal fazer a validação se tinha um vencedor, tinham muitos **IF/ ELSE IF/ ELSE**, tentei minimizar um pouco o código. 
 
-No inicio do JS criei dois ``for()`` para percorrer as linhas e colunas da ``<div />`` principal e adicionando **eventListener**.
+No inicio do JS criei dois ``for()`` para percorrer as linhas e colunas da ``<div />`` principal e adicionando **eventListener**:
 
 ### eventListener de click
 
@@ -26,6 +26,8 @@ Cada botão recebe um ``eventListener`` de click, quando um usuário clicar esse
 ### eventListener de mouseenter e mouseleave
 
 Esse eventos ajudam o CSS a deixar o jogo mais amigavel, quando for a vez do jogador **xis** ele vai adicionar uma classe em todos os ``<button />`` assim que o usuário passar o mouse por cima (sim ``:hover{}``) o CSS vai adicionar temporariamente a figura do **xis**. E se o usuário passar o mouse em outro ``<button />`` o JS vai remover a classe do ``<button />`` anterior, afinal de contas ele não vai mais precisar ver o **xis** no q ele não vai selecionar. 
+
+Após adicionar alguns eventListener crio algumas funções que são responsavel por verificar se tem ganhador e voltar o jogo do zero. 
 
 ### HaveWinner()
 
