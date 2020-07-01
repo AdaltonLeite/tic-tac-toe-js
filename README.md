@@ -1,5 +1,8 @@
 # Criando um Tic Tac Toe com JS 
 
+Só quer jogar? Clica no link da demo -> [BORA JOGA](https://adaltonleite.github.io/tic-tac-toe-js/index.html)
+
+
 # Introdução 
 
 Com a quarentena a gente vai ganhando um tempo ocioso, pensando nisso crie esse rápido projeto de Tic Tac Toe (joga da velha) e vou compartilhar um pouco a forma como escrevi o código dele. 
