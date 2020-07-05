@@ -72,3 +72,4 @@ function reset () {
     button[i].disabled = false;
   }
 }
+
